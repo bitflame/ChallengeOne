@@ -1,0 +1,11 @@
+C:\Users\usr\source\repos\ChallengeOne\ChallengeOne\bin\Debug\netcoreapp2.1\ChallengeOne.deps.json
+C:\Users\usr\source\repos\ChallengeOne\ChallengeOne\bin\Debug\netcoreapp2.1\ChallengeOne.runtimeconfig.json
+C:\Users\usr\source\repos\ChallengeOne\ChallengeOne\bin\Debug\netcoreapp2.1\ChallengeOne.runtimeconfig.dev.json
+C:\Users\usr\source\repos\ChallengeOne\ChallengeOne\bin\Debug\netcoreapp2.1\ChallengeOne.dll
+C:\Users\usr\source\repos\ChallengeOne\ChallengeOne\bin\Debug\netcoreapp2.1\ChallengeOne.pdb
+C:\Users\usr\source\repos\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp2.1\ChallengeOne.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp2.1\ChallengeOne.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp2.1\ChallengeOne.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp2.1\ChallengeOne.AssemblyInfo.cs
+C:\Users\usr\source\repos\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp2.1\ChallengeOne.dll
+C:\Users\usr\source\repos\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp2.1\ChallengeOne.pdb
